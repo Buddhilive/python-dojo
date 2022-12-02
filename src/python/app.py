@@ -26,4 +26,4 @@ print(len(msg))
 
 print("labore" in msg)
 
-print(msg[2:5])
+print(msg.upper())
